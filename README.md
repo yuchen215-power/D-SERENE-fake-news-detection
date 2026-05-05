@@ -1,1 +1,1 @@
-# D-SERENE-fake-news-detection
+# DES-CMR-fake-news-detection
